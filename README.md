@@ -1,11 +1,18 @@
 # 🧘🏻‍♂️  LinkedIn Feed Blocker
 
-Simple Chrome extension to block your LinkedIn feed and remove updates from your network, companies you follow, recommended content, and sponsored content.
+Ever go on linked to answer a message and then get baited into scrolling? 
 
-## Add to Chrome
+Add this Firefox extension to hide all updates/posts on LinkedIn so you can stay productive without distractions from your feed.
 
-👉 https://chrome.google.com/webstore/detail/linkedin-feed-blocker/bacadbohjalkmmopkbfjhpafninfhano 👈
+## [👉 Add to Firefox in 2 clicks](https://addons.mozilla.org/en-US/firefox/addon/linkedin-feed-blocker/)
+
+
+## [5 Star Reviews from happy users ⭐️⭐️⭐️⭐️⭐️](https://addons.mozilla.org/en-US/firefox/addon/linkedin-feed-blocker/reviews/)
+
+> This is great! Takes away all the distraction of logging on to LinkedIn. This is how LinkedIn should be - it is how it used to be.
+
+> Sweet. Need to use linkedin for work, always get distracted. This helps.
 
 ## Acknowledgements
 
-[Icons](https://www.flaticon.com/free-icon/ghost_1234843) by [Smashicons](https://www.flaticon.com/authors/smashicons) via [flaticon.com](https://www.flaticon.com/), licensed under the [Flaticon Basic License](https://file000.flaticon.com/downloads/license/license.pdf).
+This extension is ported over from the [Google Chrome extension created by Luc Boruta](https://github.com/lucboruta/linkedin-feed-blocker).
