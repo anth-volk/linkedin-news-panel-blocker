@@ -1,18 +1,9 @@
-# 🧘🏻‍♂️  LinkedIn Feed Blocker
+# LinkedIn News Panel Blocker
 
-Ever go on linked to answer a message and then get baited into scrolling? 
+This blocker removes LinkedIn's worst feature: the 'News' panel on the right side of the desktop app. The panel's filled with clickbait headlines whose sometimes inflammatory headlines can be distracting at best and baiting at worst.
 
-Add this Firefox extension to hide all updates/posts on LinkedIn so you can stay productive without distractions from your feed.
+But no more. This extension hides that panel, allowing you to focus on what matters: your own network.
 
-## [👉 Add to Firefox in 2 clicks](https://addons.mozilla.org/en-US/firefox/addon/linkedin-feed-blocker/)
+# Acknowledgements
 
-
-## [5 Star Reviews from happy users ⭐️⭐️⭐️⭐️⭐️](https://addons.mozilla.org/en-US/firefox/addon/linkedin-feed-blocker/reviews/)
-
-> This is great! Takes away all the distraction of logging on to LinkedIn. This is how LinkedIn should be - it is how it used to be.
-
-> Sweet. Need to use linkedin for work, always get distracted. This helps.
-
-## Acknowledgements
-
-This extension is ported over from the [Google Chrome extension created by Luc Boruta](https://github.com/lucboruta/linkedin-feed-blocker).
+This extension is forked from AG Liber's [LinkedIn Feed Blocker](https://github.com/agliber/linkedin-feed-blocker), itself ported from the [Google Chrome extension created by Luc Boruta](https://github.com/lucboruta/linkedin-feed-blocker).
