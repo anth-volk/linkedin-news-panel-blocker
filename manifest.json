@@ -15,7 +15,7 @@
     "128": "img/ghost-128.png",
     "512": "img/ghost-512.png"
   },
-  "manifest_version": 1,
+  "manifest_version": 2,
   "name": "LinkedIn News Panel Blocker",
   "version": "0.0.1"
 }
